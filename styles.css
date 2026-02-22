@@ -20,8 +20,8 @@
 			--border: #5a7678;
 			--accent: #74C365;
 			--bg: #9552e3;
-			--gradientBottom: rgb(0, 50, 60);
-			--gradientTop: darkslategrey;
+			--gradientBottom: #511fd0;
+			--gradientTop: #7b52e3;
 			a:link { color: lightblue; }
 		}
 		header {
