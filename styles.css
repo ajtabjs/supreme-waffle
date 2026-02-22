@@ -3,9 +3,10 @@
 		--text: darkslategrey;
 		--border: lightgrey;
 		--accent: teal;
-		--bg: #dce3e1;
-		--gradientTop: white;
-		--gradientBottom: rgb(240, 248, 255, .8);
+		--bg: #4394f1;
+		--gradientTop: rgba(185, 215, 242, 0.8);
+		--gradientBottom: rgba(161, 186, 209, 0.8);
+        
 	}
 	header {
 		background: url('***light mode banner image***');
