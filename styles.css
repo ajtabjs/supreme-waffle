@@ -183,3 +183,11 @@ a:hover, a:focus {
 a:visited {
 	color: var(--accent);
 }
+
+/* https://spencermortensen.com/articles/email-obfuscation/#text-display */
+div.email > span:nth-child(5) {
+	display: none;
+}
+div.blurpleapp > span:nth-child(15) {
+	display: none;
+}
